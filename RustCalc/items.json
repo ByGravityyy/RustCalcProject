@@ -1,0 +1,3232 @@
+{
+"items": [
+    {
+    "id": "-1478212975",
+    "displayName": "Wolf Headdress",
+    "shortName": "hat.wolf",
+    "category": "Attire",
+
+    "mats": {
+            "itemName":["Cloth: ", "Wolf Skull: "],
+            "itemCost":[10, 1]
+            }
+
+    },
+    {
+    "id": "-1973785141",
+    "displayName": "Fogger-3000",
+    "shortName": "fogmachine",
+    "category": "Misc",
+
+    "mats": {
+            "itemName": ["Metal Fragments: ", "Low Grade Fuel: ", "Metal Pipe: "],
+            "itemCost": [100, 1, 1]
+            }
+    },
+    {
+    "id": "2104517339",
+    "displayName": "Strobe Light",
+    "shortName": "strobelight",
+    "category": "Misc",
+
+    "mats": {
+            "itemName": ["Metal Fragments: ", "High Quality Metal: "],
+            "itemCost": [100, 2]
+            }
+    },
+    {
+    "id": "-1023065463",
+    "displayName": "High Velocity Arrow",
+    "shortName": "arrow.hv",
+    "category": "Ammunition",
+
+    "mats": {
+            "itemName": ["Wood: ", "Metal Fragments: "],
+            "itemCost": [20, 5]
+            }
+    },
+    {
+    "id": "-1234735557",
+    "displayName": "Wooden Arrow",
+    "shortName": "arrow.wooden",
+    "category": "Ammunition",
+
+    "mats": {
+            "itemName": ["Wood: ", "Stones: "],
+            "itemCost": [25, 10]
+            }
+    },
+    {
+    "id": "215754713",
+    "displayName": "Bone Arrow",
+    "shortName": "arrow.bone",
+    "category": "Ammunition",
+
+    "mats": {
+            "itemName": ["Wood: ", "Bone Fragments: "],
+            "itemCost": [25, 10]
+            }
+    },
+    {
+    "id": "14241751",
+    "displayName": "Fire Arrow",
+    "shortName": "arrow.fire",
+    "category": "Ammunition",
+
+    "mats": {
+            "itemName": ["Wood: ", "Cloth: ", "Low Grade Fuel: "],
+            "itemCost": [20, 12, 10]
+            }
+    },
+    {
+    "id": "588596902",
+    "displayName": "Handmade Shell",
+    "shortName": "ammo.handmade.shell",
+    "category": "Ammunition",
+
+    "mats": {
+            "itemName": ["Stones: ", "Gun Powder: "],
+            "itemCost": [5, 5]
+            }
+    },
+    {
+    "id": "-2097376851",
+    "displayName": "Nailgun Nails",
+    "shortName": "ammo.nailgun.nails",
+    "category": "Ammunition",
+    
+    "mats":{
+            "itemName": ["Metal Fragments: "],
+            "itemCost": [8]
+            }
+    },
+    {
+    "id": "785728077",
+    "displayName": "Pistol Bullet",
+    "shortName": "ammo.pistol",
+    "category": "Ammunition",
+    
+    "mats": {
+            "itemName": ["Metal Fragments: ", "Gun Powder: "],
+            "itemCost": [10, 5]
+            }
+    },
+    {
+    "id": "51984655",
+    "displayName": "Incendiary Pistol Bullet",
+    "shortName": "ammo.pistol.fire",
+    "category": "Ammunition",
+
+    "mats": {
+            "itemName": ["Metal Fragments: ", "Gun Powder: ", "Sulfur: "],
+            "itemCost": [10, 10, 5]
+            }
+    },
+    {
+    "id": "-1691396643",
+    "displayName": "HV Pistol Ammo",
+    "shortName": "ammo.pistol.hv",
+    "category": "Ammunition",
+    
+    "mats": {
+            "itemName": ["Metal Fragments: ", "Gun Powder: "],
+            "itemCost": [10, 20]
+            }
+    },
+    {
+    "id": "-1211166256",
+    "displayName": "5.56 Rifle Ammo",
+    "shortName": "ammo.rifle",
+    "category": "Ammunition",
+    
+    "mats": {
+            "itemName": ["Metal Fragments: ", "Gun Powder: "],
+            "itemCost": [10, 5]
+            }
+    },
+    {
+    "id": "-1321651331",
+    "displayName": "Explosive 5.56 Rifle Ammo",
+    "shortName": "ammo.rifle.explosive",
+    "category": "Ammunition",
+    
+    "mats": {
+            "itemName": ["Metal Fragments: ", "Gun Powder: ", "Sulfur: "],
+            "itemCost": [10, 20, 10]
+            }
+    },
+    {
+    "id": "605467368",
+    "displayName": "Incendiary 5.56 Rifle Ammo",
+    "shortName": "ammo.rifle.incendiary",
+    "category": "Ammunition",
+    
+    "mats": {
+        "itemName": ["Metal Fragments: ", "Gun Powder: ", "Sulfur: "],
+        "itemCost": [10, 10, 5]
+        }
+    },
+    {
+    "id": "1712070256",
+    "displayName": "HV 5.56 Rifle Ammo",
+    "shortName": "ammo.rifle.hv",
+    "category": "Ammunition",
+    
+    "mats": {
+            "itemName": ["Metal Fragments: ", "Gun Powder: "],
+            "itemCost": [10, 20]
+            }
+    },
+    {
+    "id": "-742865266",
+    "displayName": "Rocket",
+    "shortName": "ammo.rocket.basic",
+    "category": "Ammunition",
+    
+    "mats": {
+            "itemName": ["Metal Pipe: ", "Gun Powder: ", "Explosives: "],
+            "itemCost": [2, 150, 10]
+            }
+    },
+    {
+    "id": "1638322904",
+    "displayName": "Incendiary Rocket",
+    "shortName": "ammo.rocket.fire",
+    "category": "Ammunition",
+    
+    "mats": {
+            "itemName": ["Metal Pipe: ", "Gun Powder: ", "Low Grade Fuel: ", "Explosives: "],
+            "itemCost": [2, 250, 250, 1]
+            }
+    },
+    {
+    "id": "-1841918730",
+    "displayName": "High Velocity Rocket",
+    "shortName": "ammo.rocket.hv",
+    "category": "Ammunition",
+    
+    "mats": {
+            "itemName": ["Metal Pipe: ", "Gun Powder: "],
+            "itemCost": [1, 100]
+            }
+    },
+    {
+    "id": "-1685290200",
+    "displayName": "12 Gauge Buckshot",
+    "shortName": "ammo.shotgun",
+    "category": "Ammunition",
+    
+    "mats": {
+            "itemName": ["Metal Fragments: ", "Gun Powder: "], 
+            "itemCost": [5, 10]
+            }
+    },
+    {
+    "id": "-1036635990",
+    "displayName": "12 Gauge Incendiary Shell",
+    "shortName": "ammo.shotgun.fire",
+    "category": "Ammunition",
+    
+    "mats": {
+            "itemName": ["Metal Fragments: ", "Gun Powder: ", "Sulfur: "], 
+            "itemCost": [5, 10, 20]
+            }
+    },
+    {
+    "id": "-727717969",
+    "displayName": "12 Gauge Slug",
+    "shortName": "ammo.shotgun.slug",
+    "category": "Ammunition",
+    
+    "mats": {
+            "itemName": ["Metal Fragments: ", "Gun Powder: "], 
+            "itemCost": [5, 10]
+            }
+    },
+    {
+    "id": "1390353317",
+    "displayName": "Sheet Metal Double Door",
+    "shortName": "door.double.hinged.metal",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Metal Fragments: "], 
+            "itemCost": [200]
+            }
+    },
+    {
+    "id": "1221063409",
+    "displayName": "Armored Double Door",
+    "shortName": "door.double.hinged.toptier",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["High Quality Metal: ", "Gears: "], 
+            "itemCost": [25, 5]
+            }
+    },
+    {
+    "id": "-1336109173",
+    "displayName": "Wood Double Door",
+    "shortName": "door.double.hinged.wood",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Wood: "], 
+            "itemCost": [350]
+            }
+    },
+    {
+    "id": "-2067472972",
+    "displayName": "Sheet Metal Door",
+    "shortName": "door.hinged.metal",
+    "category": "Construction",
+    
+    "mats": {
+        "itemName": ["Metal Fragments: ", "Gun Powder: "], 
+        "itemCost": [5, 10]
+        }
+    },
+    {
+    "id": "1353298668",
+    "displayName": "Armored Door",
+    "shortName": "door.hinged.toptier",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["High Quality Metal: ", "Gears: "], 
+            "itemCost": [20, 5]
+            }
+    },
+    {
+    "id": "1729120840",
+    "displayName": "Wooden Door",
+    "shortName": "door.hinged.wood",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Wood: "], 
+            "itemCost": [300]
+            }
+    },
+    {
+    "id": "936496778",
+    "displayName": "Floor grill",
+    "shortName": "floor.grill",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Metal Fragments: "], 
+            "itemCost": [75]
+            }
+    },
+    {
+    "id": "1948067030",
+    "displayName": "Ladder Hatch",
+    "shortName": "floor.ladder.hatch",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Wooden Ladder: ", "Metal Fragments: ", "Gears: "], 
+            "itemCost": [1, 300, 3]
+            }
+    },
+    {
+    "id": "-691113464",
+    "displayName": "High External Stone Gate",
+    "shortName": "gates.external.high.stone",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Stones: ", "Gears: "], 
+            "itemCost": [3000, 5]
+            }
+    },
+    {
+    "id": "-335089230",
+    "displayName": "High External Wooden Gate",
+    "shortName": "gates.external.high.wood",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Wood: ", "Gears: "], 
+            "itemCost": [3000, 2]
+            }
+    },
+    {
+    "id": "-316250604",
+    "displayName": "Wooden Ladder",
+    "shortName": "ladder.wooden.wall",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Wood: ", "Rope: "], 
+            "itemCost": [300, 3]
+            }
+    },
+    {
+    "id": "-967648160",
+    "displayName": "High External Stone Wall",
+    "shortName": "wall.external.high.stone",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Stones: "], 
+            "itemCost": [1500]
+            }
+    },
+    {
+    "id": "99588025",
+    "displayName": "High External Wooden Wall",
+    "shortName": "wall.external.high",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Wood: "], 
+            "itemCost": [1500]
+            }
+    },
+    {
+    "id": "-956706906",
+    "displayName": "Prison Cell Gate",
+    "shortName": "wall.frame.cell.gate",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Metal Fragments: "], 
+            "itemCost": [150]
+            }
+    },
+    {
+    "id": "-1429456799",
+    "displayName": "Prison Cell Wall",
+    "shortName": "wall.frame.cell",
+    "category": "Construction",
+
+    "mats": {
+            "itemName": ["Metal Fragments: "], 
+            "itemCost": [150]
+            }
+    },
+    {
+    "id": "1451568081",
+    "displayName": "Chainlink Fence Gate",
+    "shortName": "wall.frame.fence.gate",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Metal Fragments: "], 
+            "itemCost": [75]
+            }
+    },
+    {
+    "id": "-1117626326",
+    "displayName": "Chainlink Fence",
+    "shortName": "wall.frame.fence",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Metal Fragments: "], 
+            "itemCost": [75]
+            }
+    },
+    {
+    "id": "-148794216",
+    "displayName": "Garage Door",
+    "shortName": "wall.frame.garagedoor",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Metal Fragments: ", "Gears: "], 
+            "itemCost": [300, 2]
+            }
+    },
+    {
+    "id": "1516985844",
+    "displayName": "Netting",
+    "shortName": "wall.frame.netting",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Rope: "], 
+            "itemCost": [1]
+            }
+    },
+    {
+    "id": "-796583652",
+    "displayName": "Shop Front",
+    "shortName": "wall.frame.shopfront",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Wood: "], 
+            "itemCost": [150]
+            }
+    },
+    {
+    "id": "-148229307",
+    "displayName": "Metal Shop Front",
+    "shortName": "wall.frame.shopfront.metal",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Metal Fragments: "], 
+            "itemCost": [250]
+            }
+    },
+    {
+    "id": "-819720157",
+    "displayName": "Metal Window Bars",
+    "shortName": "wall.window.bars.metal",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Metal Fragments: "], 
+            "itemCost": [25]
+            }
+    },
+    {
+    "id": "-1183726687",
+    "displayName": "Wooden Window Bars",
+    "shortName": "wall.window.bars.wood",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Wood: "], 
+            "itemCost": [50]
+            }
+    },
+    {
+    "id": "-1199897169",
+    "displayName": "Metal horizontal embrasure",
+    "shortName": "shutter.metal.embrasure.a",
+    "category": "Construction",
+    
+    "mats": {
+        "itemName": ["Metal Fragments: "], 
+        "itemCost": [100]
+        }
+    },
+    {
+    "id": "-1199897172",
+    "displayName": "Metal Vertical embrasure",
+    "shortName": "shutter.metal.embrasure.b",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Metal Fragments: "], 
+            "itemCost": [100]
+            }
+    },
+    {
+    "id": "-1614955425",
+    "displayName": "Reinforced Glass Window",
+    "shortName": "wall.window.glass.reinforced",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["High Quality Metal: "], 
+            "itemCost": [4]
+            }
+    },
+    {
+    "id": "-1023374709",
+    "displayName": "Wood Shutters",
+    "shortName": "shutter.wood.a",
+    "category": "Construction",
+    
+    "mats": {
+        "itemName": ["Wood: "], 
+        "itemCost": [200]
+        }
+    },
+    {
+    "id": "-463122489",
+    "displayName": "Watch Tower",
+    "shortName": "watchtower.wood",
+    "category": "Construction",
+    
+    "mats": {
+            "itemName": ["Wood: "], 
+            "itemCost": [200]
+            }
+    },
+
+    {
+    "id": "-1000573653",
+    "displayName": "Frog Boots",
+    "shortName": "boots.frog",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Tarp: "], 
+                "itemCost": [1]
+            }
+    },
+    {
+    "id": "21402876",
+    "displayName": "Burlap Gloves",
+    "shortName": "burlap.gloves.new",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: "], 
+                "itemCost": [5]
+            }
+    },
+    {
+    "id": "1366282552",
+    "displayName": "Leather Gloves",
+    "shortName": "burlap.gloves",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Leather: ", "Sewing Kit: "], 
+                "itemCost": [20, 1]
+            }
+    },
+    {
+    "id": "-699558439",
+    "displayName": "Roadsign Gloves",
+    "shortName": "roadsign.gloves",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Leather: ", "Road Signs: ", "Sewing Kit: "], 
+                "itemCost": [20, 1, 2]
+            }
+    },
+    {
+    "id": "3222790",
+    "displayName": "Hide Halterneck",
+    "shortName": "attire.hide.helterneck",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Leather: "], 
+                "itemCost": [10]
+            }
+    },
+    {
+    "id": "1675639563",
+    "displayName": "Beenie Hat",
+    "shortName": "hat.beenie",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: "], 
+                "itemCost": [15]
+            }
+    },
+    {
+    "id": "-23994173",
+    "displayName": "Boonie Hat",
+    "shortName": "hat.boonie",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: "], 
+                "itemCost": [10]
+            }
+    },
+    {
+    "id": "850280505",
+    "displayName": "Bucket Helmet",
+    "shortName": "bucket.helmet",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [35]
+            }
+    },
+    {
+    "id": "1877339384",
+    "displayName": "Burlap Headwrap",
+    "shortName": "burlap.headwrap",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: "], 
+                "itemCost": [10]
+            }
+    },
+    {
+    "id": "1714496074",
+    "displayName": "Candle Hat",
+    "shortName": "hat.candle",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: ", "Low Grade Fuel: "], 
+                "itemCost": [15, 5]
+            }
+    },
+    {
+    "id": "-1022661119",
+    "displayName": "Baseball Cap",
+    "shortName": "hat.cap",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: "], 
+                "itemCost": [5]
+            }
+    },
+    {
+    "id": "968019378",
+    "displayName": "Clatter Helmet",
+    "shortName": "clatter.helmet",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [35]
+            }
+    },
+    {
+    "id": "-803263829",
+    "displayName": "Coffee Can Helmet",
+    "shortName": "coffeecan.helmet",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: ", "Metal Fragments: ", "Sewing Kit: "], 
+                "itemCost": [15, 60, 1]
+            }
+    },
+    {
+    "id": "-1903165497",
+    "displayName": "Bone Helmet",
+    "shortName": "deer.skull.mask",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: ", "Bone Fragments: "], 
+                "itemCost": [15, 30]
+            }
+    },
+    {
+    "id": "1181207482",
+    "displayName": "Heavy Plate Helmet",
+    "shortName": "heavy.plate.helmet",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Sheet Metal: ", "High Quality Metal"], 
+                "itemCost": [1, 4]
+            }
+    },
+    {
+    "id": "-1539025626",
+    "displayName": "Miners Hat",
+    "shortName": "hat.miner",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: ", "Low Grade Fuel: ", "Metal Fragments: "], 
+                "itemCost": [15, 10, 50]
+            }
+    },
+    {
+    "id": "671063303",
+    "displayName": "Riot Helmet",
+    "shortName": "riot.helmet",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: ", "Metal Fragments: "], 
+                "itemCost": [10, 50]
+            }
+    },
+    {
+    "id": "-2094954543",
+    "displayName": "Wood Armor Helmet",
+    "shortName": "wood.armor.helmet",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: ", "Wood: "], 
+                "itemCost": [15, 200]
+            }
+    },
+    {
+    "id": "1751045826",
+    "displayName": "Hoodie",
+    "shortName": "hoodie",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: ", "Sewing Kit: "], 
+                "itemCost": [40, 1]
+            }
+    },
+    {
+    "id": "1746956556",
+    "displayName": "Bone Armor",
+    "shortName": "bone.armor.suit",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: ", "Bone Fragments: "], 
+                "itemCost": [15, 70]
+            }
+    },
+    {
+    "id": "-1102429027",
+    "displayName": "Heavy Plate Jacket",
+    "shortName": "heavy.plate.jacket",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Sheet Metal: ", "High Quality Metal: "], 
+                "itemCost": [2, 4]
+            }
+    },
+    {
+    "id": "-48090175",
+    "displayName": "Snow Jacket",
+    "shortName": "jacket.snow",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: ", "Sewing Kit: "], 
+                "itemCost": [60, 1]
+            }
+    },
+    {
+    "id": "-1163532624",
+    "displayName": "Jacket",
+    "shortName": "jacket",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: ", "Sewing Kit: "], 
+                "itemCost": [50, 2]
+            }
+    },
+    {
+    "id": "418081930",
+    "displayName": "Wood Chestplate",
+    "shortName": "wood.armor.jacket",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Rope: ", "Wood: "], 
+                "itemCost": [1, 300]
+            }
+    },
+    {
+    "id": "-2012470695",
+    "displayName": "Improvised Balaclava",
+    "shortName": "mask.balaclava",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: "], 
+                "itemCost": [15]
+            }
+    },
+    {
+    "id": "-702051347",
+    "displayName": "Bandana Mask",
+    "shortName": "mask.bandana",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: "], 
+                "itemCost": [5]
+            }
+    },
+    {
+    "id": "-194953424",
+    "displayName": "Metal Facemask",
+    "shortName": "metal.facemask",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Leather: ", "High Quality Metal: ", "Sewing Kit: "], 
+                "itemCost": [50, 15, 6]
+            }
+    },
+    {
+    "id": "1992974553",
+    "displayName": "Burlap Trousers",
+    "shortName": "burlap.trousers",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: "], 
+                "itemCost": [20]
+            }
+    },
+    {
+    "id": "-1778159885",
+    "displayName": "Heavy Plate Pants",
+    "shortName": "heavy.plate.pants",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Sheet Metal: ", "High Quality Metal: "], 
+                "itemCost": [1, 4]
+            }
+    },
+    {
+    "id": "1722154847",
+    "displayName": "Hide Pants",
+    "shortName": "attire.hide.pants",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Leather: "], 
+                "itemCost": [10]
+            }
+    },
+    {
+    "id": "1850456855",
+    "displayName": "Road Sign Kilt",
+    "shortName": "roadsign.kilt",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Leather: ", "Road Signs: ", "Sewing Kit: "], 
+                "itemCost": [10, 1, 2]
+            }
+    },
+    {
+    "id": "-1695367501",
+    "displayName": "Shorts",
+    "shortName": "pants.shorts",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: "], 
+                "itemCost": [30]
+            }
+    },
+    {
+    "id": "832133926",
+    "displayName": "Wood Armor Pants",
+    "shortName": "wood.armor.pants",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Rope: ", "Wood: "], 
+                "itemCost": [1, 200]
+            }
+    },
+    {
+    "id": "237239288",
+    "displayName": "Pants",
+    "shortName": "pants",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: ", "Sewing Kit: "], 
+                "itemCost": [40, 1]
+            }
+    },
+    {
+    "id": "980333378",
+    "displayName": "Hide Poncho",
+    "shortName": "attire.hide.poncho",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Leather: "], 
+                "itemCost": [15]
+            }
+    },
+    {
+    "id": "602741290",
+    "displayName": "Burlap Shirt",
+    "shortName": "burlap.shirt",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: "], 
+                "itemCost": [20]
+            }
+    },
+    {
+    "id": "-2025184684",
+    "displayName": "Shirt",
+    "shortName": "shirt.collared",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: "], 
+                "itemCost": [25]
+            }
+    },
+    {
+    "id": "196700171",
+    "displayName": "Hide Vest",
+    "shortName": "attire.hide.vest",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Leather: "], 
+                "itemCost": [10]
+            }
+    },
+    {
+    "id": "1608640313",
+    "displayName": "Tank Top",
+    "shortName": "shirt.tanktop",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: "], 
+                "itemCost": [20]
+            }
+    },
+    {
+    "id": "-1549739227",
+    "displayName": "Boots",
+    "shortName": "shoes.boots",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Leather: ", "Metal Fragments: ", "Sewing Kit: "], 
+                "itemCost": [20, 15, 1]
+            }
+    },
+    {
+    "id": "-761829530",
+    "displayName": "Burlap Shoes",
+    "shortName": "burlap.shoes",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: "], 
+                "itemCost": [10]
+            }
+    },
+    {
+    "id": "794356786",
+    "displayName": "Hide Boots",
+    "shortName": "attire.hide.boots",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Leather: "], 
+                "itemCost": [10]
+            }
+    },
+    {
+    "id": "-1773144852",
+    "displayName": "Hide Skirt",
+    "shortName": "attire.hide.skirt",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Leather: "], 
+                "itemCost": [10]
+            }
+    },
+    {
+    "id": "1266491000",
+    "displayName": "Hazmat Suit",
+    "shortName": "hazmatsuit",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Tarp: ", "Sewing Kit: ", "High Quality Metal"], 
+                "itemCost": [5, 2, 8]
+            }
+    },
+    {
+    "id": "935692442",
+    "displayName": "Longsleeve T-Shirt",
+    "shortName": "tshirt.long",
+    "category": "Attire",
+
+    "mats": {
+                "itemName": ["Cloth: "], 
+                "itemCost": [30]
+            }
+    },
+    {
+    "id": "223891266",
+    "displayName": "T-Shirt",
+    "shortName": "tshirt",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Cloth: "], 
+                "itemCost": [25]
+            }
+    },
+    {
+    "id": "1110385766",
+    "displayName": "Metal Chest Plate",
+    "shortName": "metal.plate.torso",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Leather: ", "High Quality Metal: ", "Sewing Kit: "], 
+                "itemCost": [50, 25, 8]
+            }
+    },
+    {
+    "id": "-2002277461",
+    "displayName": "Road Sign Jacket",
+    "shortName": "roadsign.jacket",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Leather: ", "Road Signs: ", "Sewing Kit: "], 
+                "itemCost": [20, 2, 2]
+            }
+    },
+    {
+    "id": "479143914",
+    "displayName": "Gears",
+    "shortName": "gears",
+    "category": "Component",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "Scrap: "], 
+                "itemCost": [25, 100]
+            }
+    },
+    {
+    "id": "1882709339",
+    "displayName": "Metal Blade",
+    "shortName": "metalblade",
+    "category": "Component",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "Scrap: "], 
+                "itemCost": [30, 10]
+            }
+    },
+    {
+    "id": "95950017",
+    "displayName": "Metal Pipe",
+    "shortName": "metalpipe",
+    "category": "Component",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: ", "Scrap: "], 
+                "itemCost": [2, 20]
+            }
+    },
+    {
+    "id": "-1673693549",
+    "displayName": "Empty Propane Tank",
+    "shortName": "propanetank",
+    "category": "Component",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "Scrap: "], 
+                "itemCost": [100, 10]
+            }
+    },
+    {
+    "id": "1199391518",
+    "displayName": "Road Signs",
+    "shortName": "roadsigns",
+    "category": "Component",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: ", "Scrap: "], 
+                "itemCost": [2, 20]
+            }
+    },
+    {
+    "id": "1234880403",
+    "displayName": "Sewing Kit",
+    "shortName": "sewingkit",
+    "category": "Component",
+    
+    "mats": {
+                "itemName": ["Cloth: ", "Rope: "], 
+                "itemCost": [20, 3]
+            }
+    },
+    {
+    "id": "-1021495308",
+    "displayName": "Metal Spring",
+    "shortName": "metalspring",
+    "category": "Component",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: ", "Scrap: "], 
+                "itemCost": [2, 50]
+            }
+    },
+    {
+    "id": "-1950721390",
+    "displayName": "Concrete Barricade",
+    "shortName": "barricade.concrete",
+    "category": "Construction",
+    
+    "mats": {
+                "itemName": ["Stones: "], 
+                "itemCost": [200]
+            }
+    },
+    {
+    "id": "1655650836",
+    "displayName": "Metal Barricade",
+    "shortName": "barricade.metal",
+    "category": "Construction",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "Metal Blade: "], 
+                "itemCost": [200, 2]
+            }
+    },
+    {
+    "id": "-559599960",
+    "displayName": "Sandbag Barricade",
+    "shortName": "barricade.sandbags",
+    "category": "Construction",
+    
+    "mats": {
+                "itemName": ["Stones: ", "Cloth: "], 
+                "itemCost": [100, 10]
+            }
+    },
+    {
+    "id": "15388698",
+    "displayName": "Stone Barricade",
+    "shortName": "barricade.stone",
+    "category": "Construction",
+    
+    "mats": {
+                "itemName": ["Stones: "], 
+                "itemCost": [100]
+            }
+    },
+    {
+    "id": "866889860",
+    "displayName": "Wooden Barricade",
+    "shortName": "barricade.wood",
+    "category": "Construction",
+    
+    "mats": {
+                "itemName": ["Wood: "], 
+                "itemCost": [300, 1]
+            }
+    },
+    {
+    "id": "1382263453",
+    "displayName": "Barbed Wooden Barricade",
+    "shortName": "barricade.woodwire",
+    "category": "Construction",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: ", "Rope: "], 
+                "itemCost": [300, 50, 1]
+            }
+    },
+    {
+    "id": "1099314009",
+    "displayName": "Barbeque",
+    "shortName": "bbq",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "Wood: "], 
+                "itemCost": [40, 100]
+            }
+    },
+    {
+    "id": "-582782051",
+    "displayName": "Snap Trap",
+    "shortName": "trap.bear",
+    "category": "Traps",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "Gears: "], 
+                "itemCost": [50, 1]
+            }
+    },
+    {
+    "id": "-1273339005",
+    "displayName": "Bed",
+    "shortName": "bed",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Cloth: ", "Metal Fragments: ", "Sewing Kit: "], 
+                "itemCost": [60, 100, 2]
+            }
+    },
+    {
+    "id": "1946219319",
+    "displayName": "Camp Fire",
+    "shortName": "campfire",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: "], 
+                "itemCost": [100]
+            }
+    },
+    {
+    "id": "1142993169",
+    "displayName": "Ceiling Light",
+    "shortName": "ceilinglight",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [50]
+            }
+    },
+    {
+    "id": "1534542921",
+    "displayName": "Chair",
+    "shortName": "chair",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: "], 
+                "itemCost": [50, 75]
+            }
+    },
+    {
+    "id": "-1519126340",
+    "displayName": "Drop Box",
+    "shortName": "dropbox",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [200]
+            }
+    },
+    {
+    "id": "-1535621066",
+    "displayName": "Stone Fireplace",
+    "shortName": "fireplace.stone",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Stones: ", "Wood: "], 
+                "itemCost": [500, 200]
+            }
+    },
+    {
+    "id": "-92759291",
+    "displayName": "Wooden Floor Spikes",
+    "shortName": "spikes.floor",
+    "category": "Traps",
+    
+    "mats": {
+                "itemName": ["Wood: "], 
+                "itemCost": [150]
+            }
+    },
+    {
+    "id": "1413014235",
+    "displayName": "Fridge",
+    "shortName": "fridge",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [75]
+            }
+    },
+    {
+    "id": "-1992717673",
+    "displayName": "Large Furnace",
+    "shortName": "furnace.large",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Stones: ", "Wood: ", "Low Grade Fuel: "], 
+                "itemCost": [500, 600, 75]
+            }
+    },
+    {
+    "id": "-1999722522",
+    "displayName": "Furnace",
+    "shortName": "furnace",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Stones: ", "Wood: ", "Low Grade Fuel: "], 
+                "itemCost": [200, 100, 50]
+            }
+    },
+    {
+    "id": "1160881421",
+    "displayName": "Hitch & Trough",
+    "shortName": "hitchtroughcombo",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: "], 
+                "itemCost": [200]
+            }
+    },
+    {
+    "id": "-1663759755",
+    "displayName": "Land Mine",
+    "shortName": "trap.landmine",
+    "category": "Traps",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "Gun Powder: "], 
+                "itemCost": [50, 30]
+            }
+    },
+    {
+    "id": "1658229558",
+    "displayName": "Lantern",
+    "shortName": "lantern",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "Low Grade Fuel: "], 
+                "itemCost": [25, 15]
+            }
+    },
+    {
+    "id": "833533164",
+    "displayName": "Large Wood Box",
+    "shortName": "box.wooden.large",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: "], 
+                "itemCost": [250, 50]
+            }
+    },
+    {
+    "id": "-1863559151",
+    "displayName": "Water Barrel",
+    "shortName": "water.barrel",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Tarp: "], 
+                "itemCost": [250, 1]
+            }
+    },
+    {
+    "id": "-110921842",
+    "displayName": "Locker",
+    "shortName": "locker",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Metal Fragments", "Wood: "], 
+                "itemCost": [100, 50]
+            }
+    },
+    {
+    "id": "-586784898",
+    "displayName": "Mail Box",
+    "shortName": "mailbox",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: "], 
+                "itemCost": [100, 25]
+            }
+    },
+    {
+    "id": "-1293296287",
+    "displayName": "Small Oil Refinery",
+    "shortName": "small.oil.refinery",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: ", "Low Grade Fuel: "], 
+                "itemCost": [200, 500, 250]
+            }
+    },
+    {
+    "id": "1581210395",
+    "displayName": "Large Planter Box",
+    "shortName": "planter.large",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Tarp: "], 
+                "itemCost": [200, 2]
+            }
+    },
+    {
+    "id": "1903654061",
+
+    "displayName": "Small Planter Box",
+    "shortName": "planter.small",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Tarp: "], 
+                "itemCost": [100, 1]
+            }
+    },
+    {
+    "id": "2100007442",
+    "displayName": "Audio Alarm",
+    "shortName": "electric.audioalarm",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [75]
+            }
+    },
+    {
+    "id": "553270375",
+    "displayName": "Large Rechargable Battery",
+    "shortName": "electric.battery.rechargable.large",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: ", "Tech Trash: "], 
+                "itemCost": [10, 2]
+            }
+    },
+    {
+    "id": "2023888403",
+    "displayName": "Medium Rechargable Battery",
+    "shortName": "electric.battery.rechargable.medium",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: ", "Tech Trash: "], 
+                "itemCost": [5, 1]
+            }
+    },
+    {
+    "id": "-692338819",
+    "displayName": "Small Rechargable Battery",
+    "shortName": "electric.battery.rechargable.small",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: "], 
+                "itemCost": [5]
+            }
+    },
+    {
+    "id": "-216999575",
+    "displayName": "Counter",
+    "shortName": "electric.counter",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [75]
+            }
+    },
+    {
+    "id": "-1507239837",
+    "displayName": "HBHF Sensor",
+    "shortName": "electric.hbhfsensor",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [75]
+            }
+    },
+    {
+    "id": "-798293154",
+    "displayName": "Laser Detector",
+    "shortName": "electric.laserdetector",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [75]
+            }
+    },
+    {
+    "id": "-2049214035",
+    "displayName": "Pressure Pad",
+    "shortName": "electric.pressurepad",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Spring: ", "Gears: "], 
+                "itemCost": [150, 1, 1]
+            }
+    },
+    {
+    "id": "-502177121",
+    "displayName": "Door Controller",
+    "shortName": "electric.doorcontroller",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [75]
+            }
+    },
+    {
+    "id": "1171735914",
+    "displayName": "AND Switch",
+    "shortName": "electric.andswitch",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [100]
+            }
+    },
+    {
+    "id": "-690968985",
+    "displayName": "Blocker",
+    "shortName": "electric.blocker",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [75]
+            }
+    },
+    {
+    "id": "-1448252298",
+    "displayName": "Electrical Branch",
+    "shortName": "electrical.branch",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [75]
+            }
+    },
+    {
+    "id": "-458565393",
+    "displayName": "Root Combiner",
+    "shortName": "electrical.combiner",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [75]
+            }
+    },
+    {
+    "id": "-746647361",
+    "displayName": "Memory Cell",
+    "shortName": "electrical.memorycell",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [75]
+            }
+    },
+    {
+    "id": "-1286302544",
+    "displayName": "OR Switch",
+    "shortName": "electric.orswitch",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [100]
+            }
+    },
+    {
+    "id": "492357192",
+    "displayName": "RAND Switch",
+    "shortName": "electric.random.switch",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [75]
+            }
+    },
+    {
+    "id": "-1044468317",
+    "displayName": "RF Broadcaster",
+    "shortName": "electric.rf.broadcaster",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "Tech Trash: "], 
+                "itemCost": [100, 1]
+            }
+    },
+    {
+    "id": "888415708",
+    "displayName": "RF Receiver",
+    "shortName": "electric.rf.receiver",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "Tech Trash: "], 
+                "itemCost": [100, 1]
+            }
+    },
+    {
+    "id": "1293102274",
+    "displayName": "XOR Switch",
+    "shortName": "electric.xorswitch",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [100]
+            }
+    },
+    {
+    "id": "1849887541",
+    "displayName": "Small Generator",
+    "shortName": "electric.fuelgenerator.small",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: ", "Gears: "], 
+                "itemCost": [5, 2]
+            }
+    },
+    {
+    "id": "2090395347",
+    "displayName": "Large Solar Panel",
+    "shortName": "electric.solarpanel.large",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: ", "Tech Trash: "], 
+                "itemCost": [5, 1]
+            }
+    },
+    {
+    "id": "-939424778",
+    "displayName": "Flasher Light",
+    "shortName": "electric.flasherlight",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [120]
+            }
+    },
+    {
+    "id": "762289806",
+    "displayName": "Siren Light",
+    "shortName": "electric.sirenlight",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [120]
+            }
+    },
+    {
+    "id": "1951603367",
+    "displayName": "Switch",
+    "shortName": "electric.switch",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [100]
+            }
+    },
+    {
+    "id": "-563624462",
+    "displayName": "Splitter",
+    "shortName": "electric.splitter",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [100]
+            }
+    },
+    {
+    "id": "1371909803",
+    "displayName": "Tesla Coil",
+    "shortName": "electric.teslacoil",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: ", "Tech Trash: "], 
+                "itemCost": [3, 1]
+            }
+    },
+    {
+    "id": "665332906",
+    "displayName": "Timer",
+    "shortName": "electric.timer",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [75]
+            }
+    },
+    {
+    "id": "-1736356576",
+    "displayName": "Reactive Target",
+    "shortName": "target.reactive",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: ", "Gears: "], 
+                "itemCost": [100, 150, 1]
+            }
+    },
+    {
+    "id": "803222026",
+    "displayName": "Repair Bench",
+    "shortName": "box.repair.bench",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [125]
+            }
+    },
+    {
+    "id": "-1861522751",
+    "displayName": "Research Table",
+    "shortName": "research.table",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "Scrap: "], 
+                "itemCost": [200, 20]
+            }
+    },
+    {
+    "id": "-1104881824",
+    "displayName": "Rug Bear Skin",
+    "shortName": "rug.bear",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Leather: "], 
+                "itemCost": [20]
+            }
+    },
+    {
+    "id": "-1985799200",
+    "displayName": "Rug",
+    "shortName": "rug",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Cloth: "], 
+                "itemCost": [25]
+            }
+    },
+    {
+    "id": "2087678962",
+    "displayName": "Search Light",
+    "shortName": "searchlight",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: "], 
+                "itemCost": [500, 200]
+            }
+    },
+    {
+    "id": "1950721418",
+    "displayName": "Salvaged Shelves",
+    "shortName": "shelves",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [50]
+            }
+    },
+    {
+    "id": "23352662",
+    "displayName": "Large Banner Hanging",
+    "shortName": "sign.hanging.banner.large",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Cloth: ", "Metal Fragments: "], 
+                "itemCost": [20, 100]
+            }
+    },
+    {
+    "id": "1205607945",
+    "displayName": "Two Sided Hanging Sign",
+    "shortName": "sign.hanging",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [150]
+            }
+    },
+    {
+    "id": "-1647846966",
+    "displayName": "Two Sided Ornate Hanging Sign",
+    "shortName": "sign.hanging.ornate",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [100]
+            }
+    },
+    {
+    "id": "-845557339",
+    "displayName": "Landscape Picture Frame",
+    "shortName": "sign.pictureframe.landscape",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Cloth: "], 
+                "itemCost": [100, 10]
+            }
+    },
+    {
+    "id": "-1370759135",
+    "displayName": "Portrait Picture Frame",
+    "shortName": "sign.pictureframe.portrait",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Cloth: "], 
+                "itemCost": [100, 10]
+            }
+    },
+    {
+    "id": "121049755",
+    "displayName": "Tall Picture Frame",
+    "shortName": "sign.pictureframe.tall",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Cloth: "], 
+                "itemCost": [150, 10]
+            }
+    },
+    {
+    "id": "-996185386",
+    "displayName": "XL Picture Frame",
+    "shortName": "sign.pictureframe.xl",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Cloth: "], 
+                "itemCost": [150, 15]
+            }
+    },
+    {
+    "id": "98508942",
+    "displayName": "XXL Picture Frame",
+    "shortName": "sign.pictureframe.xxl",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Cloth: "], 
+                "itemCost": [175, 30]
+            }
+    },
+    {
+    "id": "2070189026",
+    "displayName": "Large Banner on pole",
+    "shortName": "sign.pole.banner.large",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: ", "Cloth: "], 
+                "itemCost": [100, 50, 20]
+            }
+    },
+    {
+    "id": "1521286012",
+    "displayName": "Double Sign Post",
+    "shortName": "sign.post.double",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: "], 
+                "itemCost": [75]
+            }
+    },
+    {
+    "id": "1542290441",
+    "displayName": "Single Sign Post",
+    "shortName": "sign.post.single",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: "], 
+                "itemCost": [75]
+            }
+    },
+    {
+    "id": "-1832422579",
+    "displayName": "One Sided Town Sign Post",
+    "shortName": "sign.post.town",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: "], 
+                "itemCost": [100]
+            }
+    },
+    {
+    "id": "826309791",
+    "displayName": "Two Sided Town Sign Post",
+    "shortName": "sign.post.town.roof",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: "], 
+                "itemCost": [100, 50]
+            }
+    },
+    {
+    "id": "-143132326",
+    "displayName": "Huge Wooden Sign",
+    "shortName": "sign.wooden.huge",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: "], 
+                "itemCost": [250]
+            }
+    },
+    {
+    "id": "1153652756",
+    "displayName": "Large Wooden Sign",
+    "shortName": "sign.wooden.large",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: "], 
+                "itemCost": [150]
+            }
+    },
+    {
+    "id": "-1819233322",
+    "displayName": "Wooden Sign",
+    "shortName": "sign.wooden.medium",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: "], 
+                "itemCost": [100]
+            }
+    },
+    {
+    "id": "-1138208076",
+    "displayName": "Small Wooden Sign",
+    "shortName": "sign.wooden.small",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: "], 
+                "itemCost": [75]
+            }
+    },
+    {
+    "id": "352499047",
+    "displayName": "Shotgun Trap",
+    "shortName": "guntrap",
+    "category": "Traps",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: ", "Gears: ", "Rope: "], 
+                "itemCost": [500, 250, 2, 2]
+            }
+    },
+    {
+    "id": "-1754948969",
+    "displayName": "Sleeping Bag",
+    "shortName": "sleepingbag",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Cloth: "], 
+                "itemCost": [30]
+            }
+    },
+    {
+    "id": "-369760990",
+    "displayName": "Small Stash",
+    "shortName": "stash.small",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Cloth: "], 
+                "itemCost": [10]
+            }
+    },
+    {
+    "id": "-1100422738",
+    "displayName": "Spinning wheel",
+    "shortName": "spinner.wheel",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [150]
+            }
+    },
+    {
+    "id": "559147458",
+    "displayName": "Survival Fish Trap",
+    "shortName": "fishtrap.small",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Cloth: "], 
+                "itemCost": [200, 5]
+            }
+    },
+    {
+    "id": "593465182",
+    "displayName": "Table",
+    "shortName": "table",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: "], 
+                "itemCost": [200, 100]
+            }
+    },
+    {
+    "id": "1524187186",
+    "displayName": "Work Bench Level 1",
+    "shortName": "workbench1",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: "], 
+                "itemCost": [100]
+            }
+    },
+    {
+    "id": "-41896755",
+    "displayName": "Work Bench Level 2",
+    "shortName": "workbench2",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "High Quality Metal: ", "Scrap: "], 
+                "itemCost": [500, 20, 500]
+            }
+    },
+    {
+    "id": "-1607980696",
+    "displayName": "Work Bench Level 3",
+    "shortName": "workbench3",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "High Quality Metal: ", "Scrap: "], 
+                "itemCost": [1000, 100, 1250]
+            }
+    },
+    {
+    "id": "-97956382",
+    "displayName": "Tool Cupboard",
+    "shortName": "cupboard.tool",
+    "category": "Construction",
+    
+    "mats": {
+                "itemName": ["Wood: "], 
+                "itemCost": [1000]
+            }
+    },
+    {
+    "id": "-1478445584",
+    "displayName": "Tuna Can Lamp",
+    "shortName": "tunalight",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Empty Tuna Can: ", "Wood: ", "Low Grade Fuel: "], 
+                "itemCost": [1, 20, 10]
+            }
+    },
+    {
+    "id": "198438816",
+
+    "displayName": "Vending Machine",
+    "shortName": "vending.machine",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: "], 
+                "itemCost": [100]
+            }
+    },
+    {
+    "id": "-1100168350",
+    "displayName": "Large Water Catcher",
+    "shortName": "water.catcher.large",
+    "category": "Construction",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: ", "Tarp: "], 
+                "itemCost": [500, 200, 2]
+            }
+    },
+    {
+    "id": "-132247350",
+    "displayName": "Small Water Catcher",
+    "shortName": "water.catcher.small",
+    "category": "Construction",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: ", "Tarp: "], 
+                "itemCost": [100, 50, 1]
+            }
+    },
+    {
+    "id": "2114754781",
+    "displayName": "Water Purifier",
+    "shortName": "water.purifier",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Empty Propane Tank: ", "Metal Fragments: ", "Cloth: "], 
+                "itemCost": [1, 15, 10]
+            }
+    },
+    {
+    "id": "-1819763926",
+    "displayName": "Wind Turbine",
+    "shortName": "generator.wind.scrap",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Wood: ", "High Quality Metal: ", "Gears: ", "Sheet Metal: "], 
+                "itemCost": [500, 10, 3, 3]
+            }
+    },
+    {
+    "id": "-180129657",
+    "displayName": "Wood Storage Box",
+    "shortName": "box.wooden",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Wood: "], 
+                "itemCost": [100]
+            }
+    },
+    {
+    "id": "613961768",
+    "displayName": "Bota Bag",
+    "shortName": "botabag",
+    "category": "Items",
+    
+    "mats": {
+                "itemName": ["Cloth: "], 
+                "itemCost": [10]
+            }
+    },
+    {
+    "id": "-2107018088",
+    "displayName": "Shovel Bass",
+    "shortName": "fun.bass",
+    "category": "Fun",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: "], 
+                "itemCost": [50, 75]
+            }
+    },
+    {
+    "id": "-1049881973",
+    "displayName": "Cowbell",
+    "shortName": "fun.cowbell",
+    "category": "Fun",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [35]
+            }
+    },
+    {
+    "id": "-1330640246",
+    "displayName": "Junkyard Drum Kit",
+    "shortName": "drumkit",
+    "category": "Fun",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: "], 
+                "itemCost": [200, 100]
+            }
+    },
+    {
+    "id": "-2040817543",
+    "displayName": "Pan Flute",
+    "shortName": "fun.flute",
+    "category": "Fun",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "Cloth: "], 
+                "itemCost": [20, 5]
+            }
+    },
+    {
+    "id": "-2124352573",
+    "displayName": "Acoustic Guitar",
+    "shortName": "fun.guitar",
+    "category": "Fun",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Cloth: "], 
+                "itemCost": [100, 10]
+            }
+    },
+    {
+    "id": "-979951147",
+    "displayName": "Jerry Can Guitar",
+    "shortName": "fun.jerrycanguitar",
+    "category": "Fun",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: "], 
+                "itemCost": [25, 50]
+            }
+    },
+    {
+    "id": "1272430949",
+    "displayName": "Wheelbarrow Piano",
+    "shortName": "piano",
+    "category": "Fun",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: "], 
+                "itemCost": [200, 100]
+            }
+    },
+    {
+    "id": "-1379036069",
+    "displayName": "Canbourine",
+    "shortName": "fun.tambourine",
+    "category": "Fun",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [25]
+            }
+    },
+    {
+    "id": "273172220",
+    "displayName": "Plumber's Trumpet",
+    "shortName": "fun.trumpet",
+    "category": "Fun",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [75]
+            }
+    },
+    {
+    "id": "1784406797",
+    "displayName": "Sousaphone",
+    "shortName": "fun.tuba",
+    "category": "Fun",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [100]
+            }
+    },
+    {
+    "id": "-211235948",
+    "displayName": "Xylobone",
+    "shortName": "xlyophone",
+    "category": "Fun",
+    
+    "mats": {
+                "itemName": ["Bone Fragments: "], 
+                "itemCost": [50]
+            }
+    },
+    {
+    "id": "-850982208",
+    "displayName": "Key Lock",
+    "shortName": "lock.key",
+    "category": "Construction",
+    
+    "mats": {
+                "itemName": ["Wood: "], 
+                "itemCost": [75]
+            }
+    },
+    {
+    "id": "1159991980",
+    "displayName": "Code Lock",
+    "shortName": "lock.code",
+    "category": "Construction",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [100]
+            }
+    },
+    {
+    "id": "1414245162",
+    "displayName": "Note",
+    "shortName": "note",
+    "category": "Misc",
+    
+    "mats": {
+                "itemName": ["Wood: "], 
+                "itemCost": [10]
+            }
+    },
+    {
+    "id": "-2139580305",
+    "displayName": "Auto Turret",
+    "shortName": "autoturret",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Targeting Computer: ", "CCTV Camera: ", "High Quality Metal: "], 
+                "itemCost": [1, 1, 10]
+            }
+    },
+    {
+    "id": "528668503",
+    "displayName": "Flame Turret",
+    "shortName": "flameturret",
+    "category": "Traps",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "Empty Propane Tank: ", "Gears: "], 
+                "itemCost": [200, 2, 1]
+            }
+    },
+    {
+    "id": "-384243979",
+    "displayName": "SAM Ammo",
+    "shortName": "ammo.rocket.sam",
+    "category": "Ammunition",
+    
+    "mats": {
+                "itemName": ["Metal Pipe: ", "Gun Powder: "], 
+                "itemCost": [1, 30]
+            }
+    },
+    {
+    "id": "-592016202",
+    "displayName": "Explosives",
+    "shortName": "explosives",
+    "category": "Resources",
+    
+    "mats": {
+                "itemName": ["Gun Powder: ", "Low Grade Fuel: ", "Sulfur: ", "Metal Fragments: "], 
+                "itemCost": [50, 3, 10, 10]
+            }
+    },
+    {
+    "id": "-265876753",
+    "displayName": "Gun Powder",
+    "shortName": "gunpowder",
+    "category": "Resources",
+    
+    "mats": {
+                "itemName": ["Charcoal: ", "Sulfur: "], 
+                "itemCost": [30, 20]
+            }
+    },
+    {
+    "id": "-946369541",
+    "displayName": "Low Grade Fuel",
+    "shortName": "lowgradefuel",
+    "category": "Resources",
+    
+    "mats": {
+                "itemName": ["Animal Fat: ", "Cloth: "], 
+                "itemCost": [3, 1]
+            }
+    },
+    {
+    "id": "-1262185308",
+    "displayName": "Binoculars",
+    "shortName": "tool.binoculars",
+    "category": "Tool",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "Gears: "], 
+                "itemCost": [40, 1]
+            }
+    },
+    {
+    "id": "1248356124",
+    "displayName": "Timed Explosive Charge",
+    "shortName": "explosive.timed",
+    "category": "Tool",
+    
+    "mats": {
+                "itemName": ["Explosives: ", "Cloth: ", "Tech Trash: "], 
+                "itemCost": [20, 5, 2]
+            }
+    },
+    {
+    "id": "596469572",
+    "displayName": "RF Transmitter",
+    "shortName": "rf.detonator",
+    "category": "Tool",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: ", "Tech Trash: "], 
+                "itemCost": [5, 1]
+            }
+    },
+    {
+    "id": "304481038",
+    "displayName": "Flare",
+    "shortName": "flare",
+    "category": "Tool",
+    
+    "mats": {
+                "itemName": ["Gun Powder: ", "Metal Fragments: "], 
+                "itemCost": [10, 10]
+            }
+    },
+    {
+    "id": "-196667575",
+    "displayName": "Flashlight",
+    "shortName": "flashlight.held",
+    "category": "Tool",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [30]
+            }
+    },
+    {
+    "id": "254522515",
+    "displayName": "Large Medkit",
+    "shortName": "largemedkit",
+    "category": "Medical",
+    
+    "mats": {
+                "itemName": ["Medical Syringe: ", "Low Grade Fuel: "], 
+                "itemCost": [2, 10]
+            }
+    },
+    {
+    "id": "1079279582",
+    "displayName": "Medical Syringe",
+    "shortName": "syringe.medical",
+    "category": "Medical",
+    
+    "mats": {
+                "itemName": ["Cloth: ", "Metal Fragments: ", "Low Grade Fuel: "], 
+                "itemCost": [15, 10, 10]
+            }
+    },
+    {
+    "id": "-566907190",
+    "displayName": "RF Pager",
+    "shortName": "rf_pager",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "Tech Trash: "], 
+                "itemCost": [50, 1]
+            }
+    },
+    {
+    "id": "1525520776",
+    "displayName": "Building Plan",
+    "shortName": "building.planner",
+    "category": "Construction",
+    
+    "mats": {
+                "itemName": ["Wood: "], 
+                "itemCost": [20]
+            }
+    },
+    {
+    "id": "1263920163",
+    "displayName": "Smoke Grenade",
+    "shortName": "grenade.smoke",
+    "category": "Tool",
+    
+    "mats": {
+                "itemName": ["Gun Powder: ", "Metal Fragments: "], 
+                "itemCost": [35, 50]
+            }
+    },
+    {
+    "id": "1975934948",
+    "displayName": "Survey Charge",
+    "shortName": "surveycharge",
+    "category": "Tool",
+    
+    "mats": {
+                "itemName": ["Gun Powder: ", "Cloth: ", "Metal Fragments: ", "Low Grade Fuel: "], 
+                "itemCost": [30, 5, 10, 20]
+            }
+    },
+    {
+    "id": "-144417939",
+    "displayName": "Wire Tool",
+    "shortName": "wiretool",
+    "category": "Electrical",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: "], 
+                "itemCost": [2]
+            }
+    },
+        {
+    "id": "952603248",
+    "displayName": "Weapon flashlight",
+    "shortName": "weapon.mod.flashlight",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: "], 
+                "itemCost": [3]
+            }
+    },
+    {
+    "id": "442289265",
+    "displayName": "Holosight",
+    "shortName": "weapon.mod.holosight",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: ", "Tech Trash: "], 
+                "itemCost": [12, 1]
+            }
+    },
+    {
+    "id": "-132516482",
+    "displayName": "Weapon Lasersight",
+    "shortName": "weapon.mod.lasersight",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: ", "Tech Trash: "], 
+                "itemCost": [3, 1]
+            }
+    },
+    {
+    "id": "-1405508498",
+    "displayName": "Muzzle Boost",
+    "shortName": "weapon.mod.muzzleboost",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: "], 
+                "itemCost": [10]
+            }
+    },
+    {
+    "id": "1478091698",
+    "displayName": "Muzzle Brake",
+    "shortName": "weapon.mod.muzzlebrake",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: "], 
+                "itemCost": [8]
+            }
+    },
+    {
+    "id": "-855748505",
+    "displayName": "Simple Handmade Sight",
+    "shortName": "weapon.mod.simplesight",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: "], 
+                "itemCost": [6]
+            }
+    },
+    {
+    "id": "-1850571427",
+    "displayName": "Silencer",
+    "shortName": "weapon.mod.silencer",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: "], 
+                "itemCost": [5]
+            }
+    },
+    {
+    "id": "567235583",
+    "displayName": "8x Zoom Scope",
+    "shortName": "weapon.mod.small.scope",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: "], 
+                "itemCost": [50]
+            }
+    },
+    {
+    "id": "1545779598",
+    "displayName": "Assault Rifle",
+    "shortName": "rifle.ak",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: ", "Wood: ", "Rifle Body: ", "Metal Spring: "], 
+                "itemCost": [50, 200, 1, 4]
+            }
+    },
+    {
+    "id": "-2072273936",
+    "displayName": "Bandage",
+    "shortName": "bandage",
+    "category": "Medical",
+    
+    "mats": {
+                "itemName": ["Cloth: "], 
+                "itemCost": [4]
+            }
+    },
+    {
+    "id": "1840822026",
+    "displayName": "Beancan Grenade",
+    "shortName": "grenade.beancan",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Gun Powder: ", "Metal Fragments: "], 
+                "itemCost": [60, 20]
+            }
+    },
+    {
+    "id": "1588298435",
+    "displayName": "Bolt Action Rifle",
+    "shortName": "rifle.bolt",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: ", "Rifle Body: ", "Metal Pipe: ", "Metal Spring"], 
+                "itemCost": [20, 1, 3, 1]
+            }
+    },
+    {
+    "id": "1711033574",
+    "displayName": "Bone Club",
+    "shortName": "bone.club",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Bone Fragments: "], 
+                "itemCost": [20]
+            }
+    },
+    {
+    "id": "1814288539",
+    "displayName": "Bone Knife",
+    "shortName": "knife.bone",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Bone Fragments: "], 
+                "itemCost": [30]
+            }
+    },
+    {
+    "id": "1443579727",
+    "displayName": "Hunting Bow",
+    "shortName": "bow.hunting",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Cloth: "], 
+                "itemCost": [200, 50]
+            }
+    },
+    {
+    "id": "1104520648",
+    "displayName": "Chainsaw",
+    "shortName": "chainsaw",
+    "category": "Tool",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: ", "Gears: ", "Metal Blade"], 
+                "itemCost": [5, 2, 6]
+            }
+    },
+    {
+    "id": "-1978999529",
+
+    "displayName": "Salvaged Cleaver",
+    "shortName": "salvaged.cleaver",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "Road Signs"], 
+                "itemCost": [50, 1]
+            }
+    },
+    {
+    "id": "884424049",
+    "displayName": "Compound Bow",
+    "shortName": "bow.compound",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: ", "Rope: "], 
+                "itemCost": [100, 25, 2]
+            }
+    },
+    {
+    "id": "1965232394",
+    "displayName": "Crossbow",
+    "shortName": "crossbow",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: ", "Rope"], 
+                "itemCost": [200, 75, 2]
+            }
+    },
+    {
+    "id": "-765183617",
+    "displayName": "Double Barrel Shotgun",
+    "shortName": "shotgun.double",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "Metal Pipe: "], 
+                "itemCost": [175, 2]
+            }
+    },
+    {
+    "id": "-75944661",
+    "displayName": "Eoka Pistol",
+    "shortName": "pistol.eoka",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: "], 
+                "itemCost": [75, 30]
+            }
+    },
+    {
+    "id": "143803535",
+    "displayName": "F1 Grenade",
+    "shortName": "grenade.f1",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Gun Powder: ", "Metal Fragments: "], 
+                "itemCost": [30, 25]
+            }
+    },
+    {
+    "id": "-1215753368",
+    "displayName": "Flame Thrower",
+    "shortName": "flamethrower",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: ", "Metal Pipe", "Low Grade Fuel: ", "Empty Propane Tank: "], 
+                "itemCost": [15, 6, 100, 2]
+            }
+    },
+    {
+    "id": "200773292",
+    "displayName": "Hammer",
+    "shortName": "hammer",
+    "category": "Tool",
+    
+    "mats": {
+                "itemName": ["Wood: "], 
+                "itemCost": [100]
+            }
+    },
+    {
+    "id": "-1252059217",
+    "displayName": "Hatchet",
+    "shortName": "hatchet",
+    "category": "Tool",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: "], 
+                "itemCost": [100, 75]
+            }
+    },
+    {
+    "id": "2040726127",
+    "displayName": "Combat Knife",
+    "shortName": "knife.combat",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "High Quality Metal: "], 
+                "itemCost": [25, 1]
+            }
+    },
+    {
+    "id": "-1966748496",
+    "displayName": "Mace",
+    "shortName": "mace",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: "], 
+                "itemCost": [100, 50]
+            }
+    },
+    {
+    "id": "-1137865085",
+    "displayName": "Machete",
+    "shortName": "machete",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: "], 
+                "itemCost": [100, 40]
+            }
+    },
+    {
+    "id": "1318558775",
+    "displayName": "MP5A4",
+    "shortName": "smg.mp5",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: ", "SMG Body: ", "Metal Spring: "], 
+                "itemCost": [15, 1, 2]
+            }
+    },
+    {
+    "id": "1953903201",
+    "displayName": "Nailgun",
+    "shortName": "pistol.nailgun",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "Scrap: "], 
+                "itemCost": [75, 15]
+            }
+    },
+    {
+    "id": "-1302129395",
+    "displayName": "Pickaxe",
+    "shortName": "pickaxe",
+    "category": "Tool",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: "], 
+                "itemCost": [100, 125]
+            }
+    },
+    {
+    "id": "-1367281941",
+    "displayName": "Waterpipe Shotgun",
+    "shortName": "shotgun.waterpipe",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: "], 
+                "itemCost": [150, 75]
+            }
+    },
+    {
+    "id": "1373971859",
+    "displayName": "Python Revolver",
+    "shortName": "pistol.python",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Metal Pipe: ", "Metal Spring", "High Quality Metal"], 
+                "itemCost": [3, 1, 10]
+            }
+    },
+    {
+    "id": "649912614",
+    "displayName": "Revolver",
+    "shortName": "pistol.revolver",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Metal Pipe: ", "Cloth: ", "125: "], 
+                "itemCost": [1, 25, 125]
+            }
+    },
+    {
+    "id": "963906841",
+    "displayName": "Rock",
+    "shortName": "rock",
+    "category": "Tool",
+
+    "mats": {
+                "itemName": ["Stones: "], 
+                "itemCost": [10]
+            }
+    },
+    {
+    "id": "442886268",
+    "displayName": "Rocket Launcher",
+    "shortName": "rocket.launcher",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: ", "Metal Pipe: "], 
+                "itemCost": [40, 4]
+            }
+    },
+    {
+    "id": "-262590403",
+    "displayName": "Salvaged Axe",
+    "shortName": "axe.salvaged",
+    "category": "Tool",
+    
+    "mats": {
+                "itemName": ["Metal Pipe: ", "Metal Blade: "], 
+                "itemCost": [1, 5]
+            }
+    },
+    {
+    "id": "-1506397857",
+    "displayName": "Salvaged Hammer",
+    "shortName": "hammer.salvaged",
+    "category": "Tool",
+    
+    "mats": {
+                "itemName": ["Metal Pipe: ", "Metal Fragments: "], 
+                "itemCost": [1, 50]
+            }
+    },
+    {
+    "id": "-1780802565",
+    "displayName": "Salvaged Icepick",
+    "shortName": "icepick.salvaged",
+    "category": "Tool",
+    
+    "mats": {
+                "itemName": ["Metal Pipe: ", "Metal Blade: "], 
+                "itemCost": [1, 5]
+            }
+    },
+    {
+    "id": "-1878475007",
+    "displayName": "Satchel Charge",
+    "shortName": "explosive.satchel",
+    "category": "Tool",
+    
+    "mats": {
+                "itemName": ["Beancan Grenade: ", "Small Stash: ", "Rope: "], 
+                "itemCost": [4, 1, 1]
+            }
+    },
+    {
+    "id": "795371088",
+    "displayName": "Pump Shotgun",
+    "shortName": "shotgun.pump",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: ", "Metal Pipe: : ", "Metal Spring: "], 
+                "itemCost": [15, 2, 1]
+            }
+    },
+    {
+    "id": "818877484",
+    "displayName": "Semi-Automatic Pistol",
+    "shortName": "pistol.semiauto",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Semi Automatic Body: ", "High Quality Metal: ", "Metal Pipe"], 
+                "itemCost": [1, 4, 1]
+            }
+    },
+    {
+    "id": "-904863145",
+    "displayName": "Semi-Automatic Rifle",
+    "shortName": "rifle.semiauto",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Semi Automatic Body: ", "Metal Spring: ", "Metal Fragments: ", "High Quality Metal: "], 
+                "itemCost": [1, 1, 450, 4]
+            }
+    },
+    {
+    "id": "1796682209",
+    "displayName": "Custom SMG",
+    "shortName": "smg.2",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: ", "SMG Body: ", "Metal Spring"], 
+                "itemCost": [8, 1, 1]
+            }
+    },
+    {
+    "id": "-1583967946",
+    "displayName": "Stone Hatchet",
+    "shortName": "stonehatchet",
+    "category": "Tool",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Stones: "], 
+                "itemCost": [200, 100]
+            }
+    },
+    {
+    "id": "171931394",
+    "displayName": "Stone Pickaxe",
+    "shortName": "stone.pickaxe",
+    "category": "Tool",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Stones: "], 
+                "itemCost": [200, 100]
+            }
+    },
+    {
+    "id": "1602646136",
+    "displayName": "Stone Spear",
+    "shortName": "spear.stone",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Wooden Spear: ", "Stones: "], 
+                "itemCost": [1, 50]
+            }
+    },
+    {
+    "id": "-1469578201",
+    "displayName": "Longsword",
+    "shortName": "longsword",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Metal Blade: ", "Metal Fragments: "], 
+                "itemCost": [2, 100]
+            }
+    },
+    {
+    "id": "1326180354",
+    "displayName": "Salvaged Sword",
+    "shortName": "salvaged.sword",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: ", "Metal Blade: "], 
+                "itemCost": [15, 1]
+            }
+    },
+    {
+    "id": "-1758372725",
+    "displayName": "Thompson",
+    "shortName": "smg.thompson",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: ", "Wood: ", "SMG Body: ", "Metal Spring: "], 
+                "itemCost": [10, 100, 1, 1]
+            }
+    },
+    {
+    "id": "1803831286",
+    "displayName": "Garry's Mod Toolgun",
+    "shortName": "toolgun",
+    "category": "Tool",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Metal Fragments: "], 
+                "itemCost": [100, 20]
+            }
+    },
+    {
+    "id": "795236088",
+    "displayName": "Torch",
+    "shortName": "torch",
+    "category": "Tool",
+    
+    "mats": {
+                "itemName": ["Wood: ", "Cloth: ", "Low Grade Fuel: "], 
+                "itemCost": [30, 1, 1]
+            }
+    },
+    {
+    "id": "1424075905",
+    "displayName": "Water Bucket",
+    "shortName": "bucket.water",
+    "category": "Tool",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [20]
+            }
+    },
+    {
+    "id": "1540934679",
+    "displayName": "Wooden Spear",
+    "shortName": "spear.wooden",
+    "category": "Weapon",
+    
+    "mats": {
+                "itemName": ["Wood: "], 
+                "itemCost": [300]
+            }
+    },
+    {
+    "id": "60528587",
+    "displayName": "Roadsign Horse Armor",
+    "shortName": "horse.armor.roadsign",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Road Signs: ", "Sewing Kit: "], 
+                "itemCost": [4, 2]
+            }
+    },
+    {
+    "id": "1659447559",
+    "displayName": "Wooden Horse Armor",
+    "shortName": "horse.armor.wood",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Rope: ", "Wood: "], 
+                "itemCost": [2, 300]
+            }
+    },
+    {
+    "id": "1400460850",
+    "displayName": "Saddle bag",
+    "shortName": "horse.saddlebag",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Leather: "], 
+                "itemCost": [20]
+            }
+    },
+    {
+    "id": "1989785143",
+    "displayName": "High Quality Horse Shoes",
+    "shortName": "horse.shoes.advanced",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["High Quality Metal: "], 
+                "itemCost": [4]
+            }
+    },
+    {
+    "id": "-1211268013",
+    "displayName": "Basic Horse Shoes",
+    "shortName": "horse.shoes.basic",
+    "category": "Attire",
+    
+    "mats": {
+                "itemName": ["Metal Fragments: "], 
+                "itemCost": [50]
+            }
+    }
+]
+}

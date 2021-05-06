@@ -1,0 +1,18 @@
+[06-Jun-2020 12:02:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/jg1010/public_html/Prophecy/index.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/jg1010/public_html/Prophecy/index.php on line 43
+[06-Jun-2020 12:02:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/jg1010/public_html/Prophecy/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/jg1010/public_html/Prophecy/index.php on line 28
+[08-Jun-2020 17:18:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'jg1010_Pro'@'178.128.37.54' to database 'ProphecyDB' in /home/jg1010/public_html/Prophecy/login.php on line 9
+[08-Jun-2020 20:39:12 UTC] PHP Parse error:  syntax error, unexpected 'en' (T_STRING), expecting ']' in /home/jg1010/public_html/Prophecy/login.php on line 29
+[08-Jun-2020 20:39:36 UTC] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/jg1010/public_html/Prophecy/login.php on line 21
+[08-Jun-2020 20:39:37 UTC] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/jg1010/public_html/Prophecy/login.php on line 21
+[08-Jun-2020 20:40:09 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/jg1010/public_html/Prophecy/login.php on line 21
+[21-Apr-2021 16:26:14 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/jg1010/public_html/Prophecy/index.php on line 43
+[21-Apr-2021 16:26:16 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/jg1010/public_html/Prophecy/index.php on line 43
+[21-Apr-2021 16:26:17 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/jg1010/public_html/Prophecy/index.php on line 43
+[05-May-2021 11:48:13 UTC] PHP Warning:  A non-numeric value encountered in /home/jg1010/public_html/Prophecy/account.php on line 72
+[05-May-2021 11:48:13 UTC] PHP Warning:  A non-numeric value encountered in /home/jg1010/public_html/Prophecy/account.php on line 72
